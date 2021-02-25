@@ -1,6 +1,6 @@
 {
   "name": "simplified-ui",
-  "version": "0.0.101",
+  "version": "0.0.103",
   "peerDependencies": {
     "@angular/animations": "~9.1.9",
     "@angular/cdk": "9.2.4",
